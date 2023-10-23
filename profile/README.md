@@ -1,9 +1,14 @@
 # YAML Programming organization
 ## Purpose
 ### Vision
-Software engineering has a solid foundation on math.
+YAML is the number one syntax for writing graphs and graph transformations applied to real world problems.
 ### Mission
-Develop bridges between category theory and programming.
+Create open-source tools empowered by YAML's unique features and adoption.
+
+Research applied category theory and publish findings related to categorical syntaxes.
+
+Foster collaboration and integration with existing math and engineering communities.
+
 ### Values
 Formalism, humanism, self-improvement.
 
