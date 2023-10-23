@@ -1,11 +1,11 @@
 # YAML Programming organization
 ## Purpose
 ### Vision
-YAML is the number one syntax for writing graphs and graph transformations applied to real world problems.
+YAML is the most loved tool for solving real world problems with programs.
 ### Mission
-Create open-source tools empowered by YAML's unique features and adoption.
+Empower open-source tools with YAML's unique features and adoption.
 
-Research applied category theory and publish findings related to categorical syntaxes.
+Research and publish human-friendly categorical syntaxes for all software engineering.
 
 Foster collaboration and integration with existing math and engineering communities.
 
